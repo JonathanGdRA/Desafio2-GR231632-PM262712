@@ -1,0 +1,7 @@
+C:\Users\ramir\OneDrive\Documents\Desafio 2\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+C:\Users\ramir\OneDrive\Documents\Desafio 2\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.exe
+C:\Users\ramir\OneDrive\Documents\Desafio 2\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.pdb
+C:\Users\ramir\OneDrive\Documents\Desafio 2\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Documents\Desafio 2\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Documents\Desafio 2\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.exe
+C:\Users\ramir\OneDrive\Documents\Desafio 2\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.pdb
